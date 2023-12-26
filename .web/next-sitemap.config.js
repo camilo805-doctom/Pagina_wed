@@ -1,0 +1,1 @@
+module.exports = {"siteUrl": "https://luxsama.reflex.run", "generateRobotsTxt": true, "outDir": "_static"}
