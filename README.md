@@ -14,3 +14,13 @@ Requisitos
 Python 3.7 o superior
 Bibliotecas adicionales:
 reflex
+
+Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+Haz un fork del repositorio.
+Crea una nueva rama para tu funcionalidad (git checkout -b nueva-funcionalidad).
+Haz commit de tus cambios (git commit -m 'Agregar nueva funcionalidad').
+Sube tus cambios al repositorio (git push origin nueva-funcionalidad).
+Abre un pull request para que revisemos tus cambios.
