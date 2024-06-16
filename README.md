@@ -1,11 +1,11 @@
 
-Página Web Básica con Reflex y Python
+PÁGINA WEB BÁSICA CON REFLEX Y PYTHON
 
-Descripción
+DESCRIPCIÓN
 
 Este proyecto es una página web básica creada utilizando Reflex y Python. La página se desarrolla sin frameworks adicionales, proporcionando una estructura simple y fácil de entender para principiantes. Inspirada en la pagina realizada por Nouredev
 
-Características
+CARACTERÍSTICAS
 
 Página web estática y simple.
 Utiliza Reflex para la estructura y estilos.
@@ -15,7 +15,7 @@ Python 3.7 o superior
 Bibliotecas adicionales:
 reflex
 
-Contribuciones
+CONTRIBUCIONES
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
